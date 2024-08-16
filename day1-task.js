@@ -51,3 +51,4 @@ fs.writeFile(path.join(__dirname,'files','write.txt'),'vanakam da mapla ', (err)
   if (err) throw err;
   console.log('written !!');
 });
+hello everyone , madhaneey my dear MG vanakam da mapla hello everyone , madhaneey my dear MG vanakam da mapla 
